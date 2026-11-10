@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://bitsandbricks.ch/brand/lockup-on-light.svg#gh-light-mode-only" alt="Bits&Bricks" height="56">
   <img src="https://bitsandbricks.ch/brand/lockup-on-dark.svg#gh-dark-mode-only" alt="Bits&Bricks" height="56">
 </p>
 
